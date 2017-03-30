@@ -13,7 +13,7 @@
 .app,
 .callout-backdrop {
 	/*** !! THIS IMAGE URL NEEDS TO BE HTTPS:// !! ***/
-	background: url() !important;
+	background: url(http://imgur.com/a/4iREb) !important;
 	background-size: cover !important;
 }
 
